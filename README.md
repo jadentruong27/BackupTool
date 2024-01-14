@@ -10,4 +10,4 @@ This Python script allows you to create a backup of a specified folder and store
 4. Run the script with the following command, replacing the paths with your actual source folder and backup location:
 
    ```bash
-   python backuptool.py /path/to/source/folder /path/to/backup/location
+   python backup_tool.py /path/to/source/folder /path/to/backup/location
